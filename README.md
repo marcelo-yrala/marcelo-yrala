@@ -12,7 +12,7 @@ Me apasiona entender cómo funcionan las cosas y aprender construyendo. Actualme
 
 ## 🚀 Sobre mí
 
-* 🎓 Estudiante de **Ciencias de la Computación** y **Técnico Superior en **Desarrollo de Software**
+* 🎓 Estudiante de **Ciencias de la Computación** y **Técnico Superior en Desarrollo de Software**
 * 🌐 Experiencia en desarrollo web y frontend
 * 🎨 Interesado en **UX/UI y diseño digital**
 * 🐧 Usuario de **Linux**
